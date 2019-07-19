@@ -1,0 +1,8 @@
+单条微博URL
+https://m.weibo.cn/detail/weibo_id
+
+Request URL: https://m.weibo.cn/api/container/getIndex?containerid=2304136486443586_-_WEIBO_SECOND_PROFILE_WEIBO
+Request URL: https://m.weibo.cn/api/container/getIndex?containerid=2304136486443586_-_WEIBO_SECOND_PROFILE_WEIBO&page_type=03&page=2
+
+4395525325001368
+4395433407169145

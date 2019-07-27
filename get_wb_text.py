@@ -25,12 +25,12 @@ time.sleep(2)
 
 # 输入账号
 ele = b.find_element_by_xpath('//*[@id="loginName"]')
-ele.send_keys("15033565336")
+ele.send_keys("你的账户（手机号/邮箱）")
 time.sleep(2)
 
 # 输入密码
 ele = b.find_element_by_xpath('//*[@id="loginPassword"]')
-ele.send_keys("123678432xlwb")
+ele.send_keys("你的密码")
 time.sleep(2)
 
 # 点击登录按钮
@@ -51,7 +51,7 @@ ele.click()
 time.sleep(5)
 
 # 输入搜索关键词
-ele.send_keys('我宇宙第一怂包')
+ele.send_keys('你要爬取的用户名')
 
 # ENTER键确认搜索
 ele.send_keys(Keys.ENTER)

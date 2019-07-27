@@ -1,0 +1,2 @@
+# wb_wordcloud
+slenium模拟登录微博获取cookie，爬取输入用户的所有微博内容，分词去除停用词后生成词云
